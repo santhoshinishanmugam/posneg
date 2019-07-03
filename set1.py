@@ -1,7 +1,7 @@
-num = int(input())
-if (num > 0):
+number = int(input())
+if (number > 0):
           print("positive")
-else if (num < 0):
+else if (number < 0):
           print("negative")
-else (num == 0):
+else (number == 0):
           print("zero")
